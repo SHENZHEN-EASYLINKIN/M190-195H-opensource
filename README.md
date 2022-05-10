@@ -1,5 +1,5 @@
 # M190H-opensource
-Below files are documents and codes for Easylinkin M190H LoRaWAN module.
+Attached files are documents and codes for Easylinkin M190H LoRaWAN module.
 * eli_lorawan_lib_v1.0.9.1--library for secondary development,header file.
 * lorawan_api_demo--a simple demo code,customer can run this code to realize basic sending and receiving function.
 * M190 LoRaWAN Module Library API Manual-V1.0.0--API interface description
